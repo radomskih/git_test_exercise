@@ -2,7 +2,16 @@ This is my first edit.
 
 
 Editing again...
+<<<<<<< HEAD
 
 
 third edit
  one more baby
+=======
+>>>>>>> parent of d55e2e8... third commit
+
+
+
+
+
+editing for the new branch now....
